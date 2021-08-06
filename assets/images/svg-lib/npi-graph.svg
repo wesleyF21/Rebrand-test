@@ -1,0 +1,11 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="npi-graph">
+<rect width="60" height="60" fill="white"/>
+<g id="Group">
+<path id="Vector" d="M18 40H9V51H18V40Z" fill="#E4F2D2"/>
+<path id="Vector_2" d="M34 30H25V51H34V30Z" fill="#E4F2D2"/>
+<path id="Vector_3" d="M51 19H42V51H51V19Z" fill="#E4F2D2"/>
+<path id="Vector_4" d="M19 39V52H8.00002V39H19ZM35 29V52H24V29H35ZM52 18V52H41V18H52ZM17 41H10V50H17V41ZM33 31H26V50H33V31ZM50 20H43V50H50V20ZM35 8V17H33L32.9993 11.322L23.6514 20.6709L19.953 16.973L8.76419 28.1408L7.35132 26.7253L19.9547 14.1458L23.651 17.842L31.4933 10H26V8H35Z" fill="#009639"/>
+</g>
+</g>
+</svg>
